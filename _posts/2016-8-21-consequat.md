@@ -1,22 +1,19 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: Disaster Relief
+description:
+image: assets/images/DisasterRelief.png
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Disaster Relief was a group project which enabled users to post a 'campaign' if they needed assistance following a tragedy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+The app calculates distances between users using Googlemaps API and uses Nodemailer to alert matching users within a given redius.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Most of my work involved the setup of the restful routes, integrating the Google Maps API, image upload, front end validation and styling the site overall.
+
+Build: MongoDB, Express, AngularJS, Node.js, jQuery, JavaScript, HTML5, CSS, BCrypt, Bulma, Gulp and Bower
+
+[Github link](https://github.com/obfusticatedcode/wdi27-group-project)
+
+
+[Heroku link](https://tjc-app.herokuapp.com)
